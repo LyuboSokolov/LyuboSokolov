@@ -1,14 +1,27 @@
-<!--- - 👋 Hi, I’m @LyuboSokolov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-LyuboSokolov/LyuboSokolov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <h1>Hey there! 👋 I'm Lyubomir Sokolov</h1>
+  <p>Curious about new technologies | Self-improved | Serious | Team player</p>
+</div>
+
+## 🚀 About Me
+
+- 🌱 I'm always curious to explore new technologies and learn from them.
+- ⭐️ I believe in continuous self-improvement and challenging myself.
+- 💪 Serious and I never give up
+- 🤝 I'm a strong team player, collaboration fuels my creativity.
+
+## 🎓Education
+ **Software University (SoftUni)**
+- 🎓 C#, ASP.NET
+- 🎓 MSSQL, Entity Framework Core
+- 🎓 JavaScript, ReactJS
+- 🎓 HTML & CSS
+  
+ 🎓 **['UFT' university of Plovdiv]**
+- 🎓 **Bachelor Degree** in Automation, information and control technologies
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LyuboSokolov)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyuboSokolov)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
